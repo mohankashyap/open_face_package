@@ -12,7 +12,7 @@ setuptools.setup(
     description="A sample test package",
     long_description=description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mohankashyap/test-tackage",
+    url="https://github.com/mohankashyap/open_face_package",
     license='MIT',
     python_requires='>=3.8',
     install_requires=[]
